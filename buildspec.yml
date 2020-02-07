@@ -7,6 +7,6 @@ phases:
 artifacts:
   files:
     - index.html
-    - favicon.favicon
+    - favicon.ico
     - styles/*
     - images/*
