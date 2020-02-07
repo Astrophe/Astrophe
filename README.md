@@ -6,7 +6,7 @@ This is the Astrophe website running AWS and ReactJS.
 
 Brew
 Git and github
-SSH
+SSH AND KEYS
 htmlCSS
 Font awesome
 Google Fonts
