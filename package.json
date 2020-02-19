@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/singingvike/Astrophe.git"
+    "url": "git+https://github.com/Astrophe/Astrophe.git"
   },
   "author": "Ryan Walter",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/singingvike/Astrophe/issues"
+    "url": "https://github.com/Astrophe/Astrophe/issues"
   },
-  "homepage": "https://github.com/singingvike/Astrophe#readme",
+  "homepage": "https://github.com/Astrophe/Astrophe#readme",
   "dependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.1",

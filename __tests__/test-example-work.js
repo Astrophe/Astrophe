@@ -31,6 +31,7 @@ describe("ExampleWork component", () => {
 
     it("Should be a 'span' element", () => {
       console.log(component.debug());
+      let test = 1;
       expect(component.type()).toEqual('span');
     });
 
